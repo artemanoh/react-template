@@ -26,6 +26,10 @@
 }
 
 .modal {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
   position: relative;
   background-color: rgb(33, 2, 112);
   padding: 20px 30px;
